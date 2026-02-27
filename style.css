@@ -1015,5 +1015,15 @@ img {
 .struktur-block {
     margin-top: 80px;
 }
+.tagline-list {
+    list-style: none;      /* hilangkan bullet */
+    margin: 0;             /* hilangkan jarak luar */
+    padding: 0;            /* hilangkan jarak dalam */
+}
+
+.tagline-list li {
+    margin: 4px 0;         /* atur jarak antar baris */
+}
 
 <a href="https://teras7.com/..." target="_blank" rel="noopener noreferrer" class="read-more">...</a>
+
