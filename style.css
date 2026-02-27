@@ -1018,7 +1018,11 @@ img {
 .tagline p {
     margin: 4px 0;
 }
+.hero-buttons {
+    display: none;
+}
 
 <a href="https://teras7.com/..." target="_blank" rel="noopener noreferrer" class="read-more">...</a>
+
 
 
