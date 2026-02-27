@@ -5,6 +5,15 @@
     box-sizing: border-box;
 }
 
+.tagline {
+    margin-top: 30px;
+}
+
+.tagline p {
+    margin: 4px 0;
+    font-style: italic;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -1023,6 +1032,7 @@ img {
 }
 
 <a href="https://teras7.com/..." target="_blank" rel="noopener noreferrer" class="read-more">...</a>
+
 
 
 
